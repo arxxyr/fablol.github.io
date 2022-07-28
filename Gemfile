@@ -38,5 +38,5 @@ gem "webrick", "~> 1.7"
 gem "liquid-md5"
 gem "jekyll-tagging"
 gem "kramdown-parser-gfm"
-
+gem 'jekyll-avatar'
 gemspec
