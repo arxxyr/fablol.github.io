@@ -24,7 +24,7 @@ email: ffqi@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   la'la'la
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "yang.surf" # the base hostname & protocol for your site, e.g. http://example.com
+url: "yang.sb" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0xfffffc
 github_username:  fablol
 show_excerpts: true # set to true to show excerpts on the homepage
